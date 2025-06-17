@@ -1,1 +1,5 @@
-
+title: Prabin Adhikari
+#logo: /path/XXX.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
