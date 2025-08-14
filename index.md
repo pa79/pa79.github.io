@@ -6,7 +6,7 @@
 
 #  About Me
 
-Welcome to my academic portfolio! I am currently a Ph.D. student in Food and Resource Economics at the University of Florida, specialising in **experimental and behavioural economics**, with a research interest in **consumer behaviour**, **neuroeconomics**, and **agricultural marketing**. This repository showcases my academic and professional journey, research outputs, and leadership contributions.
+Welcome to my academic portfolio! I am a third year Ph.D. student in Food and Resource Economics at the University of Florida, specializing in **experimental and behavioural economics**, with a research interest in **consumer behaviour**, **neuroeconomics**, and **agricultural marketing**. This repository showcases my academic and professional journey, research outputs, and leadership contributions.
 
 ---
 
