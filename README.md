@@ -43,6 +43,8 @@ Welcome to my academic portfolio! I am currently a Ph.D. student in Food and Res
 
 ##  Awards & Scholarships
 
+- **Ofelia Anzola Memorial Scholarship**, College of Agriculture and Life Sciences, University of Florida (2025)
+- **First place - AEM/GSS Case Study Competition**, American and Applied Economics Association (AAEA), Denver, CO (July 27-29, 2025)
 - **Grinter Fellowship**, University of Florida (2023–2024)  
 - **Golden Jubilee Scholarship**, Government of India (2016)
 
