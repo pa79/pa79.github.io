@@ -5,7 +5,7 @@ const education = [
     period: 'Aug 2023 – Aug 2027',
     degree: 'Ph.D., Applied Economics',
     org: 'University of Florida, Gainesville, FL',
-    gpa: 'GPA: 3.77 / 4.00',
+    gpa: 'GPA: 3.83 / 4.00',
     notes: ['College of Agricultural and Life Sciences', 'Advisor: Dr. Bachir Kassas', 'Focus: Behavioral Economics, Causal Inference, Neuroeconomics'],
   },
   {
