@@ -14,7 +14,7 @@ const interests = [
 const skillGroups = [
   {
     label: 'Programming',
-    skills: ['R', 'Python', 'SQL', 'Stata', 'SAS'],
+    skills: ['R', 'Python', 'Ngene', 'imotions', 'SQL', 'Stata', 'SAS'],
   },
   {
     label: 'Econometrics',
@@ -61,21 +61,21 @@ export default function About() {
 
             <p className="about-bio reveal reveal-delay-1">
               I am a Ph.D. candidate in <strong>Applied Economics</strong> at the University of Florida's
-              College of Agricultural and Life Sciences, working under the supervision of{' '}
+              Food and Resource Economics Department, working under the supervision of{' '}
               <strong>Dr. Bachir Kassas</strong>. My research sits at the intersection of
-              behavioral economics, consumer decision-making, and empirical methods.
+              behavioral and experimental economics, consumer decision-making, and health economics.
             </p>
             <p className="about-bio reveal reveal-delay-2">
               I design and implement <strong>neuroeconomic laboratory experiments</strong> using EEG
               to identify cognitive biases and evaluate behavioral nudges. I also analyze
-              large-scale consumer panel datasets — including Nielsen data covering 60,000+
+              large-scale consumer panel datasets — including NielsenIQ data covering 60,000+
               households — merged with weather and environmental data to estimate causal
               effects using difference-in-differences and fixed-effects econometric models.
             </p>
             <p className="about-bio reveal reveal-delay-3">
               Prior to UF, I completed my <strong>M.S. in Agricultural and Applied Economics</strong>{' '}
-              at the University of Georgia, where I studied consumer preferences for
-              CBD products using random parameter logit and latent class models.
+              at the University of Georgia, where I studied consumer preferences and market segmentation of
+              flavored CBD products using cluster analysis with Calinski–Harabasz and Duda–Hart indices.
               I hold a <strong>B.Sc. in Agriculture</strong> from Agriculture and Forestry
               University in Nepal.
             </p>
