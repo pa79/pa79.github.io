@@ -3,6 +3,11 @@ import { useEffect, useRef } from 'react'
 const awards = [
   {
     icon: '🥇',
+    name: 'AAEA Data Vizualization Challenge — 2nd Place',
+    year: '2026 · AAEA Annual Meeting, Kansas City, MO',
+  },
+  {
+    icon: '🥇',
     name: 'AAEA Case Study Competition — 1st Place',
     year: '2025 · AAEA Annual Meeting, Denver, CO',
   },
